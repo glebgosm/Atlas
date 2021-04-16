@@ -1,0 +1,41 @@
+LVL2
+'Level Flags LColor LStyle LWidth FFGColor FBGColor FPattern FMode
+-3 1 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+-2 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+-1 1 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+0 0 "Black" "Invisible" 0 "Blue" "R31 G31 B31" "Solid" 1 1 1
+1 1 "Black" "Invisible" 0 "R0 G40 B255" "R63 G63 B63" "Solid" 1 1 1
+2 0 "Black" "Invisible" 0 "R0 G81 B255" "R95 G95 B95" "Solid" 1 1 1
+3 1 "Black" "Invisible" 0 "R0 G122 B255" "R127 G127 B127" "Solid" 1 1 1
+4 0 "Black" "Invisible" 0 "R0 G163 B255" "R159 G159 B159" "Solid" 1 1 1
+5 1 "Black" "Invisible" 0 "Sky Blue" "R191 G191 B191" "Solid" 1 1 1
+6 0 "Black" "Invisible" 0 "R30 G214 B255" "R223 G223 B223" "Solid" 1 1 1
+7 1 "Black" "Invisible" 0 "R61 G224 B255" "White" "Solid" 1 1 1
+8 0 "Black" "Invisible" 0 "R91 G234 B255" "White" "Solid" 1 1 1
+9 1 "Black" "Invisible" 0 "R122 G244 B255" "White" "Solid" 1 1 1
+10 0 "Black" "Invisible" 0 "Ice Blue" "White" "Solid" 1 1 1
+11 1 "Black" "Invisible" 0 "R115 G255 B192" "White" "Solid" 1 1 1
+12 0 "Black" "Invisible" 0 "R77 G255 B128" "White" "Solid" 1 1 1
+13 1 "Black" "Invisible" 0 "R39 G255 B64" "White" "Solid" 1 1 1
+14 0 "Black" "Invisible" 0 "Green" "White" "Solid" 1 1 1
+15 1 "Black" "Invisible" 0 "R63 G255 B38" "White" "Solid" 1 1 1
+16 0 "Black" "Invisible" 0 "R127 G255 B76" "White" "Solid" 1 1 1
+17 1 "Black" "Invisible" 0 "R191 G255 B114" "White" "Solid" 1 1 1
+18 0 "Black" "Invisible" 0 "Chalk" "White" "Solid" 1 1 1
+19 1 "Black" "Invisible" 0 "R255 G255 B77" "White" "Solid" 1 1 1
+20 0 "Black" "Invisible" 0 "Yellow" "White" "Solid" 1 1 1
+21 1 "Black" "Invisible" 0 "R255 G239 B0" "White" "Solid" 1 1 1
+22 0 "Black" "Invisible" 0 "R255 G221 B0" "White" "Solid" 1 1 1
+23 1 "Black" "Invisible" 0 "Deep Yellow" "White" "Solid" 1 1 1
+24 0 "Black" "Invisible" 0 "R255 G154 B0" "White" "Solid" 1 1 1
+25 1 "Black" "Invisible" 0 "R255 G103 B0" "White" "Solid" 1 1 1
+26 0 "Black" "Invisible" 0 "R255 G51 B0" "White" "Solid" 1 1 1
+27 1 "Black" "Invisible" 0 "Red" "White" "Solid" 1 1 1
+28 0 "Black" "Invisible" 0 "R255 G0 B84" "White" "Solid" 1 1 1
+29 1 "Black" "Invisible" 0 "R255 G0 B169" "White" "Solid" 1 1 1
+30 0 "Black" "Invisible" 0 "Magenta" "White" "Solid" 1 1 1
+31 1 "Black" "Invisible" 0 "Magenta" "White" "Solid" 1 1 1
+32 0 "Black" "Invisible" 0 "Magenta" "White" "Solid" 1 1 1
+33 1 "Black" "Invisible" 0 "Magenta" "White" "Solid" 1 1 1
+34 0 "Black" "Invisible" 0 "Magenta" "White" "Solid" 1 1 1
+35 1 "Black" "Invisible" 0 "Magenta" "White" "Solid" 1 1 1

@@ -1,0 +1,21 @@
+LVL2
+'Level Flags LColor LStyle LWidth FFGColor FBGColor FPattern FMode
+-3 1 "Black" "Invisible" 0 "Blue" "Black" "Solid" 1 1 1
+-2 0 "Black" "Invisible" 0 "Blue" "Black" "Solid" 1 1 1
+-1 1 "Black" "Invisible" 0 "Blue" "Black" "Solid" 1 1 1
+0 0 "Black" "Invisible" 0 "R0 G36 B255" "R39 G39 B39" "Solid" 1 1 1
+1 1 "Black" "Invisible" 0 "R0 G72 B255" "R78 G78 B78" "Solid" 1 1 1
+2 0 "Black" "Invisible" 0 "R0 G109 B255" "R117 G117 B117" "Solid" 1 1 1
+3 1 "Black" "Invisible" 0 "R0 G145 B255" "R156 G156 B156" "Solid" 1 1 1
+4 0 "Black" "Invisible" 0 "R0 G182 B255" "R196 G196 B196" "Solid" 1 1 1
+5 1 "Black" "Invisible" 0 "R0 G218 B255" "R235 G235 B235" "Solid" 1 1 1
+6 0 "Black" "Invisible" 0 "Cyan" "White" "Solid" 1 1 1
+7 1 "Black" "Invisible" 0 "R0 G255 B219" "White" "Solid" 1 1 1
+8 0 "Black" "Invisible" 0 "R0 G255 B183" "White" "Solid" 1 1 1
+9 1 "Black" "Invisible" 0 "R0 G255 B146" "White" "Solid" 1 1 1
+10 0 "Black" "Invisible" 0 "R0 G255 B110" "White" "Solid" 1 1 1
+11 1 "Black" "Invisible" 0 "R0 G255 B73" "White" "Solid" 1 1 1
+12 0 "Black" "Invisible" 0 "R0 G255 B37" "White" "Solid" 1 1 1
+13 1 "Black" "Invisible" 0 "Green" "White" "Solid" 1 1 1
+14 0 "Black" "Invisible" 0 "Green" "White" "Solid" 1 1 1
+15 1 "Black" "Invisible" 0 "Green" "White" "Solid" 1 1 1

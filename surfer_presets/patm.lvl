@@ -1,0 +1,123 @@
+LVL2
+'Level Flags LColor LStyle LWidth FFGColor FBGColor FPattern FMode
+0 1 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+25 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+50 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+75 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+100 1 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+125 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+150 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+175 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+200 1 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+225 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+250 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+275 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+300 1 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+325 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+350 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+375 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+400 1 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+425 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+450 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+475 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+500 1 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+525 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+550 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+575 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+600 1 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+625 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+650 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+675 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+700 1 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+725 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+750 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+775 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+800 1 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+825 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+850 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+875 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+900 1 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+925 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+950 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+975 0 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+1000 1 "Black" "Invisible" 0 "Purple" "Black" "Solid" 1 1 1
+1025 0 "Black" "Invisible" 0 "R144 G0 B207" "Black" "Solid" 1 1 1
+1050 0 "Black" "Invisible" 0 "R134 G0 B210" "Black" "Solid" 1 1 1
+1075 0 "Black" "Invisible" 0 "R125 G0 B213" "Black" "Solid" 1 1 1
+1100 1 "Black" "Invisible" 0 "R115 G0 B216" "Black" "Solid" 1 1 1
+1125 0 "Black" "Invisible" 0 "R106 G0 B219" "Black" "Solid" 1 1 1
+1150 0 "Black" "Invisible" 0 "R96 G0 B223" "Black" "Solid" 1 1 1
+1175 0 "Black" "Invisible" 0 "R87 G0 B226" "Black" "Solid" 1 1 1
+1200 1 "Black" "Invisible" 0 "R77 G0 B229" "Black" "Solid" 1 1 1
+1225 0 "Black" "Invisible" 0 "R67 G0 B232" "Black" "Solid" 1 1 1
+1250 0 "Black" "Invisible" 0 "R58 G0 B235" "Black" "Solid" 1 1 1
+1275 0 "Black" "Invisible" 0 "R48 G0 B239" "Black" "Solid" 1 1 1
+1300 1 "Black" "Invisible" 0 "R39 G0 B242" "Black" "Solid" 1 1 1
+1325 0 "Black" "Invisible" 0 "R29 G0 B245" "Black" "Solid" 1 1 1
+1350 0 "Black" "Invisible" 0 "R20 G0 B248" "Black" "Solid" 1 1 1
+1375 0 "Black" "Invisible" 0 "R10 G0 B251" "Black" "Solid" 1 1 1
+1400 1 "Black" "Invisible" 0 "Blue" "Black" "Solid" 1 1 1
+1425 0 "Black" "Invisible" 0 "R0 G15 B255" "Black" "Solid" 1 1 1
+1450 0 "Black" "Invisible" 0 "R0 G31 B255" "Black" "Solid" 1 1 1
+1475 0 "Black" "Invisible" 0 "R0 G47 B255" "Black" "Solid" 1 1 1
+1500 1 "Black" "Invisible" 0 "R0 G63 B255" "Black" "Solid" 1 1 1
+1525 0 "Black" "Invisible" 0 "R0 G79 B255" "Black" "Solid" 1 1 1
+1550 0 "Black" "Invisible" 0 "R0 G95 B255" "Black" "Solid" 1 1 1
+1575 0 "Black" "Invisible" 0 "R0 G111 B255" "Black" "Solid" 1 1 1
+1600 1 "Black" "Invisible" 0 "R0 G127 B255" "Black" "Solid" 1 1 1
+1625 0 "Black" "Invisible" 0 "R0 G143 B255" "Black" "Solid" 1 1 1
+1650 0 "Black" "Invisible" 0 "R0 G159 B255" "Black" "Solid" 1 1 1
+1675 0 "Black" "Invisible" 0 "R0 G175 B255" "R11 G11 B11" "Solid" 1 1 1
+1700 1 "Black" "Invisible" 0 "R0 G191 B255" "R30 G30 B30" "Solid" 1 1 1
+1725 0 "Black" "Invisible" 0 "R0 G207 B255" "R48 G48 B48" "Solid" 1 1 1
+1750 0 "Black" "Invisible" 0 "R0 G223 B255" "R67 G67 B67" "Solid" 1 1 1
+1775 0 "Black" "Invisible" 0 "R0 G239 B255" "R86 G86 B86" "Solid" 1 1 1
+1800 1 "Black" "Invisible" 0 "Cyan" "R105 G105 B105" "Solid" 1 1 1
+1825 0 "Black" "Invisible" 0 "R0 G255 B240" "R123 G123 B123" "Solid" 1 1 1
+1850 0 "Black" "Invisible" 0 "R0 G255 B224" "R142 G142 B142" "Solid" 1 1 1
+1875 0 "Black" "Invisible" 0 "R0 G255 B208" "R161 G161 B161" "Solid" 1 1 1
+1900 1 "Black" "Invisible" 0 "R0 G255 B192" "R180 G180 B180" "Solid" 1 1 1
+1925 0 "Black" "Invisible" 0 "R0 G255 B176" "R198 G198 B198" "Solid" 1 1 1
+1950 0 "Black" "Invisible" 0 "R0 G255 B160" "R217 G217 B217" "Solid" 1 1 1
+1975 0 "Black" "Invisible" 0 "R0 G255 B144" "R236 G236 B236" "Solid" 1 1 1
+2000 1 "Black" "Invisible" 0 "R0 G255 B128" "White" "Solid" 1 1 1
+2025 0 "Black" "Invisible" 0 "R0 G255 B112" "White" "Solid" 1 1 1
+2050 0 "Black" "Invisible" 0 "R0 G255 B96" "White" "Solid" 1 1 1
+2075 0 "Black" "Invisible" 0 "R0 G255 B80" "White" "Solid" 1 1 1
+2100 1 "Black" "Invisible" 0 "R0 G255 B64" "White" "Solid" 1 1 1
+2125 0 "Black" "Invisible" 0 "R0 G255 B48" "White" "Solid" 1 1 1
+2150 0 "Black" "Invisible" 0 "R0 G255 B32" "White" "Solid" 1 1 1
+2175 0 "Black" "Invisible" 0 "R0 G255 B16" "White" "Solid" 1 1 1
+2200 1 "Black" "Invisible" 0 "Green" "White" "Solid" 1 1 1
+2225 0 "Black" "Invisible" 0 "R15 G255 B0" "White" "Solid" 1 1 1
+2250 0 "Black" "Invisible" 0 "R31 G255 B0" "White" "Solid" 1 1 1
+2275 0 "Black" "Invisible" 0 "R47 G255 B0" "White" "Solid" 1 1 1
+2300 1 "Black" "Invisible" 0 "R63 G255 B0" "White" "Solid" 1 1 1
+2325 0 "Black" "Invisible" 0 "R79 G255 B0" "White" "Solid" 1 1 1
+2350 0 "Black" "Invisible" 0 "R95 G255 B0" "White" "Solid" 1 1 1
+2375 0 "Black" "Invisible" 0 "R111 G255 B0" "White" "Solid" 1 1 1
+2400 1 "Black" "Invisible" 0 "R127 G255 B0" "White" "Solid" 1 1 1
+2425 0 "Black" "Invisible" 0 "R143 G255 B0" "White" "Solid" 1 1 1
+2450 0 "Black" "Invisible" 0 "R159 G255 B0" "White" "Solid" 1 1 1
+2475 0 "Black" "Invisible" 0 "R175 G255 B0" "White" "Solid" 1 1 1
+2500 1 "Black" "Invisible" 0 "R191 G255 B0" "White" "Solid" 1 1 1
+2525 0 "Black" "Invisible" 0 "R207 G255 B0" "White" "Solid" 1 1 1
+2550 0 "Black" "Invisible" 0 "R223 G255 B0" "White" "Solid" 1 1 1
+2575 0 "Black" "Invisible" 0 "R239 G255 B0" "White" "Solid" 1 1 1
+2600 1 "Black" "Invisible" 0 "Yellow" "White" "Solid" 1 1 1
+2625 0 "Black" "Invisible" 0 "R255 G240 B0" "White" "Solid" 1 1 1
+2650 0 "Black" "Invisible" 0 "R255 G224 B0" "White" "Solid" 1 1 1
+2675 0 "Black" "Invisible" 0 "R255 G208 B0" "White" "Solid" 1 1 1
+2700 1 "Black" "Invisible" 0 "R255 G192 B0" "White" "Solid" 1 1 1
+2725 0 "Black" "Invisible" 0 "R255 G176 B0" "White" "Solid" 1 1 1
+2750 0 "Black" "Invisible" 0 "R255 G160 B0" "White" "Solid" 1 1 1
+2775 0 "Black" "Invisible" 0 "R255 G144 B0" "White" "Solid" 1 1 1
+2800 1 "Black" "Invisible" 0 "R255 G128 B0" "White" "Solid" 1 1 1
+2825 0 "Black" "Invisible" 0 "R255 G112 B0" "White" "Solid" 1 1 1
+2850 0 "Black" "Invisible" 0 "R255 G96 B0" "White" "Solid" 1 1 1
+2875 0 "Black" "Invisible" 0 "R255 G80 B0" "White" "Solid" 1 1 1
+2900 1 "Black" "Invisible" 0 "R255 G64 B0" "White" "Solid" 1 1 1
+2925 0 "Black" "Invisible" 0 "R255 G48 B0" "White" "Solid" 1 1 1
+2950 0 "Black" "Invisible" 0 "R255 G32 B0" "White" "Solid" 1 1 1
+2975 0 "Black" "Invisible" 0 "R255 G16 B0" "White" "Solid" 1 1 1
+3000 1 "Black" "Invisible" 0 "Red" "White" "Solid" 1 1 1

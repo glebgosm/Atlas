@@ -1,0 +1,1 @@
+"C:\Program Files\Golden Software\Surfer 15\scripter.exe" -x "basic\main.bas"

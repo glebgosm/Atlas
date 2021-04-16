@@ -1,0 +1,203 @@
+LVL2
+'Level Flags LColor LStyle LWidth FFGColor FBGColor FPattern FMode
+-10 1 "Black" "Invisible" 0 "White" "Black" "Solid" 1 1 1
+-9 0 "Black" "Invisible" 0 "R251 G251 B255" "R1 G1 B1" "Solid" 1 1 1
+-8 0 "Black" "Invisible" 0 "R247 G247 B255" "R2 G2 B2" "Solid" 1 1 1
+-7 0 "Black" "Invisible" 0 "R243 G243 B255" "R3 G3 B3" "Solid" 1 1 1
+-6 0 "Black" "Invisible" 0 "R238 G238 B255" "R5 G5 B5" "Solid" 1 1 1
+-5 0 "Black" "Invisible" 0 "R234 G234 B255" "R6 G6 B6" "Solid" 1 1 1
+-4 0 "Black" "Invisible" 0 "R230 G230 B255" "R7 G7 B7" "Solid" 1 1 1
+-3 0 "Black" "Invisible" 0 "R226 G226 B255" "R8 G8 B8" "Solid" 1 1 1
+-2 0 "Black" "Invisible" 0 "R221 G221 B255" "R10 G10 B10" "Solid" 1 1 1
+-1 0 "Black" "Invisible" 0 "R217 G217 B255" "R11 G11 B11" "Solid" 1 1 1
+0 1 "Black" "Invisible" 0 "R213 G213 B255" "R12 G12 B12" "Solid" 1 1 1
+1 0 "Black" "Invisible" 0 "R209 G209 B255" "R14 G14 B14" "Solid" 1 1 1
+2 0 "Black" "Invisible" 0 "Powder Blue" "R15 G15 B15" "Solid" 1 1 1
+3 0 "Black" "Invisible" 0 "R200 G200 B255" "R16 G16 B16" "Solid" 1 1 1
+4 0 "Black" "Invisible" 0 "R196 G196 B255" "R17 G17 B17" "Solid" 1 1 1
+5 0 "Black" "Invisible" 0 "R192 G192 B255" "R19 G19 B19" "Solid" 1 1 1
+6 0 "Black" "Invisible" 0 "R187 G187 B255" "R20 G20 B20" "Solid" 1 1 1
+7 0 "Black" "Invisible" 0 "R183 G183 B255" "R21 G21 B21" "Solid" 1 1 1
+8 0 "Black" "Invisible" 0 "R179 G179 B255" "R22 G22 B22" "Solid" 1 1 1
+9 0 "Black" "Invisible" 0 "R175 G175 B255" "R24 G24 B24" "Solid" 1 1 1
+10 1 "Black" "Invisible" 0 "R170 G170 B255" "90% Black" "Solid" 1 1 1
+11 0 "Black" "Invisible" 0 "R166 G166 B255" "R26 G26 B26" "Solid" 1 1 1
+12 0 "Black" "Invisible" 0 "R162 G162 B255" "R28 G28 B28" "Solid" 1 1 1
+13 0 "Black" "Invisible" 0 "R158 G158 B255" "R29 G29 B29" "Solid" 1 1 1
+14 0 "Black" "Invisible" 0 "Pastel Blue" "R30 G30 B30" "Solid" 1 1 1
+15 0 "Black" "Invisible" 0 "R149 G149 B255" "R31 G31 B31" "Solid" 1 1 1
+16 0 "Black" "Invisible" 0 "R145 G145 B255" "R33 G33 B33" "Solid" 1 1 1
+17 0 "Black" "Invisible" 0 "R141 G141 B255" "R34 G34 B34" "Solid" 1 1 1
+18 0 "Black" "Invisible" 0 "R136 G136 B255" "R35 G35 B35" "Solid" 1 1 1
+19 0 "Black" "Invisible" 0 "R132 G132 B255" "R36 G36 B36" "Solid" 1 1 1
+20 1 "Black" "Invisible" 0 "R128 G128 B255" "R38 G38 B38" "Solid" 1 1 1
+21 0 "Black" "Invisible" 0 "R124 G124 B255" "R39 G39 B39" "Solid" 1 1 1
+22 0 "Black" "Invisible" 0 "R119 G119 B255" "R40 G40 B40" "Solid" 1 1 1
+23 0 "Black" "Invisible" 0 "R115 G115 B255" "R42 G42 B42" "Solid" 1 1 1
+24 0 "Black" "Invisible" 0 "R111 G111 B255" "R43 G43 B43" "Solid" 1 1 1
+25 0 "Black" "Invisible" 0 "R107 G107 B255" "R44 G44 B44" "Solid" 1 1 1
+26 0 "Black" "Invisible" 0 "Electric Blue" "R45 G45 B45" "Solid" 1 1 1
+27 0 "Black" "Invisible" 0 "R98 G98 B255" "R47 G47 B47" "Solid" 1 1 1
+28 0 "Black" "Invisible" 0 "R94 G94 B255" "R48 G48 B48" "Solid" 1 1 1
+29 0 "Black" "Invisible" 0 "R90 G90 B255" "R49 G49 B49" "Solid" 1 1 1
+30 1 "Black" "Invisible" 0 "R85 G85 B255" "80% Black" "Solid" 1 1 1
+31 0 "Black" "Invisible" 0 "R81 G81 B255" "R52 G52 B52" "Solid" 1 1 1
+32 0 "Black" "Invisible" 0 "R77 G77 B255" "R53 G53 B53" "Solid" 1 1 1
+33 0 "Black" "Invisible" 0 "R73 G73 B255" "R54 G54 B54" "Solid" 1 1 1
+34 0 "Black" "Invisible" 0 "R68 G68 B255" "R56 G56 B56" "Solid" 1 1 1
+35 0 "Black" "Invisible" 0 "R64 G64 B255" "R57 G57 B57" "Solid" 1 1 1
+36 0 "Black" "Invisible" 0 "R60 G60 B255" "R58 G58 B58" "Solid" 1 1 1
+37 0 "Black" "Invisible" 0 "R56 G56 B255" "R59 G59 B59" "Solid" 1 1 1
+38 0 "Black" "Invisible" 0 "R51 G51 B255" "R61 G61 B61" "Solid" 1 1 1
+39 0 "Black" "Invisible" 0 "R47 G47 B255" "R62 G62 B62" "Solid" 1 1 1
+40 1 "Black" "Invisible" 0 "R43 G43 B255" "R63 G63 B63" "Solid" 1 1 1
+41 0 "Black" "Invisible" 0 "R39 G39 B255" "R65 G65 B65" "Solid" 1 1 1
+42 0 "Black" "Invisible" 0 "R34 G34 B255" "R66 G66 B66" "Solid" 1 1 1
+43 0 "Black" "Invisible" 0 "R30 G30 B255" "R67 G67 B67" "Solid" 1 1 1
+44 0 "Black" "Invisible" 0 "R26 G26 B255" "R68 G68 B68" "Solid" 1 1 1
+45 0 "Black" "Invisible" 0 "R22 G22 B255" "R70 G70 B70" "Solid" 1 1 1
+46 0 "Black" "Invisible" 0 "R17 G17 B255" "R71 G71 B71" "Solid" 1 1 1
+47 0 "Black" "Invisible" 0 "R13 G13 B255" "R72 G72 B72" "Solid" 1 1 1
+48 0 "Black" "Invisible" 0 "R9 G9 B255" "R73 G73 B73" "Solid" 1 1 1
+49 0 "Black" "Invisible" 0 "R5 G5 B255" "R75 G75 B75" "Solid" 1 1 1
+50 1 "Black" "Invisible" 0 "Blue" "R76 G76 B76" "Solid" 1 1 1
+51 0 "Black" "Invisible" 0 "R0 G12 B255" "70% Black" "Solid" 1 1 1
+52 0 "Black" "Invisible" 0 "R0 G25 B255" "R79 G79 B79" "Solid" 1 1 1
+53 0 "Black" "Invisible" 0 "R0 G38 B255" "R80 G80 B80" "Solid" 1 1 1
+54 0 "Black" "Invisible" 0 "R0 G51 B255" "R81 G81 B81" "Solid" 1 1 1
+55 0 "Black" "Invisible" 0 "R0 G63 B255" "R82 G82 B82" "Solid" 1 1 1
+56 0 "Black" "Invisible" 0 "R0 G76 B255" "R84 G84 B84" "Solid" 1 1 1
+57 0 "Black" "Invisible" 0 "R0 G89 B255" "R85 G85 B85" "Solid" 1 1 1
+58 0 "Black" "Invisible" 0 "R0 G102 B255" "R86 G86 B86" "Solid" 1 1 1
+59 0 "Black" "Invisible" 0 "R0 G114 B255" "R87 G87 B87" "Solid" 1 1 1
+60 1 "Black" "Invisible" 0 "R0 G127 B255" "R89 G89 B89" "Solid" 1 1 1
+61 0 "Black" "Invisible" 0 "R0 G140 B255" "R90 G90 B90" "Solid" 1 1 1
+62 0 "Black" "Invisible" 0 "R0 G153 B255" "R91 G91 B91" "Solid" 1 1 1
+63 0 "Black" "Invisible" 0 "R0 G165 B255" "R93 G93 B93" "Solid" 1 1 1
+64 0 "Black" "Invisible" 0 "R0 G178 B255" "R94 G94 B94" "Solid" 1 1 1
+65 0 "Black" "Invisible" 0 "R0 G191 B255" "R95 G95 B95" "Solid" 1 1 1
+66 0 "Black" "Invisible" 0 "Sky Blue" "R96 G96 B96" "Solid" 1 1 1
+67 0 "Black" "Invisible" 0 "R0 G216 B255" "R98 G98 B98" "Solid" 1 1 1
+68 0 "Black" "Invisible" 0 "R0 G229 B255" "R99 G99 B99" "Solid" 1 1 1
+69 0 "Black" "Invisible" 0 "R0 G242 B255" "R100 G100 B100" "Solid" 1 1 1
+70 1 "Black" "Invisible" 0 "Cyan" "60% Black" "Solid" 1 1 1
+71 0 "Black" "Invisible" 0 "R0 G255 B230" "R103 G103 B103" "Solid" 1 1 1
+72 0 "Black" "Invisible" 0 "R0 G255 B204" "R104 G104 B104" "Solid" 1 1 1
+73 0 "Black" "Invisible" 0 "R0 G255 B179" "R105 G105 B105" "Solid" 1 1 1
+74 0 "Black" "Invisible" 0 "R0 G255 B153" "R107 G107 B107" "Solid" 1 1 1
+75 0 "Black" "Invisible" 0 "R0 G255 B128" "R108 G108 B108" "Solid" 1 1 1
+76 0 "Black" "Invisible" 0 "R0 G255 B102" "R109 G109 B109" "Solid" 1 1 1
+77 0 "Black" "Invisible" 0 "R0 G255 B77" "R110 G110 B110" "Solid" 1 1 1
+78 0 "Black" "Invisible" 0 "R0 G255 B51" "R112 G112 B112" "Solid" 1 1 1
+79 0 "Black" "Invisible" 0 "R0 G255 B26" "R113 G113 B113" "Solid" 1 1 1
+80 1 "Black" "Invisible" 0 "Green" "R114 G114 B114" "Solid" 1 1 1
+81 0 "Black" "Invisible" 0 "R12 G255 B0" "R116 G116 B116" "Solid" 1 1 1
+82 0 "Black" "Invisible" 0 "R25 G255 B0" "R117 G117 B117" "Solid" 1 1 1
+83 0 "Black" "Invisible" 0 "R38 G255 B0" "R118 G118 B118" "Solid" 1 1 1
+84 0 "Black" "Invisible" 0 "R50 G255 B0" "R119 G119 B119" "Solid" 1 1 1
+85 0 "Black" "Invisible" 0 "R63 G255 B0" "R121 G121 B121" "Solid" 1 1 1
+86 0 "Black" "Invisible" 0 "R76 G255 B0" "R122 G122 B122" "Solid" 1 1 1
+87 0 "Black" "Invisible" 0 "R89 G255 B0" "R123 G123 B123" "Solid" 1 1 1
+88 0 "Black" "Invisible" 0 "R101 G255 B0" "R124 G124 B124" "Solid" 1 1 1
+89 0 "Black" "Invisible" 0 "R114 G255 B0" "R126 G126 B126" "Solid" 1 1 1
+90 1 "Black" "Invisible" 0 "R127 G255 B0" "R127 G127 B127" "Solid" 1 1 1
+91 0 "Black" "Invisible" 0 "R140 G255 B0" "50% Black" "Solid" 1 1 1
+92 0 "Black" "Invisible" 0 "R152 G255 B0" "R130 G130 B130" "Solid" 1 1 1
+93 0 "Black" "Invisible" 0 "R165 G255 B0" "R131 G131 B131" "Solid" 1 1 1
+94 0 "Black" "Invisible" 0 "R178 G255 B0" "R132 G132 B132" "Solid" 1 1 1
+95 0 "Black" "Invisible" 0 "R191 G255 B0" "R133 G133 B133" "Solid" 1 1 1
+96 0 "Black" "Invisible" 0 "R203 G255 B0" "R135 G135 B135" "Solid" 1 1 1
+97 0 "Black" "Invisible" 0 "R216 G255 B0" "R136 G136 B136" "Solid" 1 1 1
+98 0 "Black" "Invisible" 0 "R229 G255 B0" "R137 G137 B137" "Solid" 1 1 1
+99 0 "Black" "Invisible" 0 "R242 G255 B0" "R138 G138 B138" "Solid" 1 1 1
+100 1 "Black" "Invisible" 0 "Yellow" "R140 G140 B140" "Solid" 1 1 1
+101 0 "Black" "Invisible" 0 "R255 G250 B0" "R141 G141 B141" "Solid" 1 1 1
+102 0 "Black" "Invisible" 0 "R255 G245 B0" "R142 G142 B142" "Solid" 1 1 1
+103 0 "Black" "Invisible" 0 "R255 G240 B0" "R144 G144 B144" "Solid" 1 1 1
+104 0 "Black" "Invisible" 0 "R255 G235 B0" "R145 G145 B145" "Solid" 1 1 1
+105 0 "Black" "Invisible" 0 "R255 G230 B0" "R146 G146 B146" "Solid" 1 1 1
+106 0 "Black" "Invisible" 0 "R255 G225 B0" "R147 G147 B147" "Solid" 1 1 1
+107 0 "Black" "Invisible" 0 "R255 G220 B0" "R149 G149 B149" "Solid" 1 1 1
+108 0 "Black" "Invisible" 0 "R255 G215 B0" "R150 G150 B150" "Solid" 1 1 1
+109 0 "Black" "Invisible" 0 "R255 G210 B0" "R151 G151 B151" "Solid" 1 1 1
+110 1 "Black" "Invisible" 0 "R255 G205 B0" "40% Black" "Solid" 1 1 1
+111 0 "Black" "Invisible" 0 "R255 G199 B0" "R154 G154 B154" "Solid" 1 1 1
+112 0 "Black" "Invisible" 0 "R255 G194 B0" "R155 G155 B155" "Solid" 1 1 1
+113 0 "Black" "Invisible" 0 "R255 G189 B0" "R156 G156 B156" "Solid" 1 1 1
+114 0 "Black" "Invisible" 0 "R255 G184 B0" "R158 G158 B158" "Solid" 1 1 1
+115 0 "Black" "Invisible" 0 "R255 G179 B0" "R159 G159 B159" "Solid" 1 1 1
+116 0 "Black" "Invisible" 0 "R255 G174 B0" "R160 G160 B160" "Solid" 1 1 1
+117 0 "Black" "Invisible" 0 "R255 G169 B0" "R161 G161 B161" "Solid" 1 1 1
+118 0 "Black" "Invisible" 0 "R255 G164 B0" "R163 G163 B163" "Solid" 1 1 1
+119 0 "Black" "Invisible" 0 "R255 G159 B0" "R164 G164 B164" "Solid" 1 1 1
+120 1 "Black" "Invisible" 0 "R255 G153 B0" "R165 G165 B165" "Solid" 1 1 1
+121 0 "Black" "Invisible" 0 "R255 G148 B0" "R167 G167 B167" "Solid" 1 1 1
+122 0 "Black" "Invisible" 0 "R255 G143 B0" "R168 G168 B168" "Solid" 1 1 1
+123 0 "Black" "Invisible" 0 "R255 G138 B0" "R169 G169 B169" "Solid" 1 1 1
+124 0 "Black" "Invisible" 0 "R255 G133 B0" "R170 G170 B170" "Solid" 1 1 1
+125 0 "Black" "Invisible" 0 "R255 G128 B0" "R172 G172 B172" "Solid" 1 1 1
+126 0 "Black" "Invisible" 0 "R255 G123 B0" "R173 G173 B173" "Solid" 1 1 1
+127 0 "Black" "Invisible" 0 "R255 G118 B0" "R174 G174 B174" "Solid" 1 1 1
+128 0 "Black" "Invisible" 0 "R255 G113 B0" "R175 G175 B175" "Solid" 1 1 1
+129 0 "Black" "Invisible" 0 "R255 G108 B0" "R177 G177 B177" "Solid" 1 1 1
+130 1 "Black" "Invisible" 0 "R255 G103 B0" "R178 G178 B178" "Solid" 1 1 1
+131 0 "Black" "Invisible" 0 "R255 G97 B0" "30% Black" "Solid" 1 1 1
+132 0 "Black" "Invisible" 0 "R255 G92 B0" "R181 G181 B181" "Solid" 1 1 1
+133 0 "Black" "Invisible" 0 "R255 G87 B0" "R182 G182 B182" "Solid" 1 1 1
+134 0 "Black" "Invisible" 0 "R255 G82 B0" "R183 G183 B183" "Solid" 1 1 1
+135 0 "Black" "Invisible" 0 "R255 G77 B0" "R184 G184 B184" "Solid" 1 1 1
+136 0 "Black" "Invisible" 0 "R255 G72 B0" "R186 G186 B186" "Solid" 1 1 1
+137 0 "Black" "Invisible" 0 "R255 G67 B0" "R187 G187 B187" "Solid" 1 1 1
+138 0 "Black" "Invisible" 0 "R255 G62 B0" "R188 G188 B188" "Solid" 1 1 1
+139 0 "Black" "Invisible" 0 "R255 G57 B0" "R189 G189 B189" "Solid" 1 1 1
+140 1 "Black" "Invisible" 0 "R255 G52 B0" "R191 G191 B191" "Solid" 1 1 1
+141 0 "Black" "Invisible" 0 "R255 G46 B0" "R192 G192 B192" "Solid" 1 1 1
+142 0 "Black" "Invisible" 0 "R255 G41 B0" "R193 G193 B193" "Solid" 1 1 1
+143 0 "Black" "Invisible" 0 "R255 G36 B0" "R195 G195 B195" "Solid" 1 1 1
+144 0 "Black" "Invisible" 0 "R255 G31 B0" "R196 G196 B196" "Solid" 1 1 1
+145 0 "Black" "Invisible" 0 "R255 G26 B0" "R197 G197 B197" "Solid" 1 1 1
+146 0 "Black" "Invisible" 0 "R255 G21 B0" "R198 G198 B198" "Solid" 1 1 1
+147 0 "Black" "Invisible" 0 "R255 G16 B0" "R200 G200 B200" "Solid" 1 1 1
+148 0 "Black" "Invisible" 0 "R255 G11 B0" "R201 G201 B201" "Solid" 1 1 1
+149 0 "Black" "Invisible" 0 "R255 G6 B0" "R202 G202 B202" "Solid" 1 1 1
+150 1 "Black" "Invisible" 0 "Red" "20% Black" "Solid" 1 1 1
+151 0 "Black" "Invisible" 0 "R255 G0 B4" "R205 G205 B205" "Solid" 1 1 1
+152 0 "Black" "Invisible" 0 "R255 G0 B8" "R206 G206 B206" "Solid" 1 1 1
+153 0 "Black" "Invisible" 0 "R255 G0 B12" "R207 G207 B207" "Solid" 1 1 1
+154 0 "Black" "Invisible" 0 "R255 G0 B17" "R209 G209 B209" "Solid" 1 1 1
+155 0 "Black" "Invisible" 0 "R255 G0 B21" "R210 G210 B210" "Solid" 1 1 1
+156 0 "Black" "Invisible" 0 "R255 G0 B25" "R211 G211 B211" "Solid" 1 1 1
+157 0 "Black" "Invisible" 0 "R255 G0 B29" "R212 G212 B212" "Solid" 1 1 1
+158 0 "Black" "Invisible" 0 "R255 G0 B34" "R214 G214 B214" "Solid" 1 1 1
+159 0 "Black" "Invisible" 0 "R255 G0 B38" "R215 G215 B215" "Solid" 1 1 1
+160 1 "Black" "Invisible" 0 "R255 G0 B42" "R216 G216 B216" "Solid" 1 1 1
+161 0 "Black" "Invisible" 0 "R255 G0 B46" "R218 G218 B218" "Solid" 1 1 1
+162 0 "Black" "Invisible" 0 "R255 G0 B51" "R219 G219 B219" "Solid" 1 1 1
+163 0 "Black" "Invisible" 0 "R255 G0 B55" "R220 G220 B220" "Solid" 1 1 1
+164 0 "Black" "Invisible" 0 "R255 G0 B59" "R221 G221 B221" "Solid" 1 1 1
+165 0 "Black" "Invisible" 0 "R255 G0 B63" "R223 G223 B223" "Solid" 1 1 1
+166 0 "Black" "Invisible" 0 "R255 G0 B68" "R224 G224 B224" "Solid" 1 1 1
+167 0 "Black" "Invisible" 0 "R255 G0 B72" "R225 G225 B225" "Solid" 1 1 1
+168 0 "Black" "Invisible" 0 "R255 G0 B76" "R226 G226 B226" "Solid" 1 1 1
+169 0 "Black" "Invisible" 0 "R255 G0 B80" "R228 G228 B228" "Solid" 1 1 1
+170 1 "Black" "Invisible" 0 "R255 G0 B85" "R229 G229 B229" "Solid" 1 1 1
+171 0 "Black" "Invisible" 0 "R255 G0 B89" "10% Black" "Solid" 1 1 1
+172 0 "Black" "Invisible" 0 "R255 G0 B93" "R232 G232 B232" "Solid" 1 1 1
+173 0 "Black" "Invisible" 0 "R255 G0 B97" "R233 G233 B233" "Solid" 1 1 1
+174 0 "Black" "Invisible" 0 "R255 G0 B101" "R234 G234 B234" "Solid" 1 1 1
+175 0 "Black" "Invisible" 0 "R255 G0 B106" "R235 G235 B235" "Solid" 1 1 1
+176 0 "Black" "Invisible" 0 "R255 G0 B110" "R237 G237 B237" "Solid" 1 1 1
+177 0 "Black" "Invisible" 0 "R255 G0 B114" "R238 G238 B238" "Solid" 1 1 1
+178 0 "Black" "Invisible" 0 "R255 G0 B118" "R239 G239 B239" "Solid" 1 1 1
+179 0 "Black" "Invisible" 0 "R255 G0 B123" "R240 G240 B240" "Solid" 1 1 1
+180 1 "Black" "Invisible" 0 "R255 G0 B127" "R242 G242 B242" "Solid" 1 1 1
+181 0 "Black" "Invisible" 0 "R255 G0 B131" "R243 G243 B243" "Solid" 1 1 1
+182 0 "Black" "Invisible" 0 "R255 G0 B135" "R244 G244 B244" "Solid" 1 1 1
+183 0 "Black" "Invisible" 0 "R255 G0 B140" "R246 G246 B246" "Solid" 1 1 1
+184 0 "Black" "Invisible" 0 "R255 G0 B144" "R247 G247 B247" "Solid" 1 1 1
+185 0 "Black" "Invisible" 0 "R255 G0 B148" "R248 G248 B248" "Solid" 1 1 1
+186 0 "Black" "Invisible" 0 "R255 G0 B152" "R249 G249 B249" "Solid" 1 1 1
+187 0 "Black" "Invisible" 0 "R255 G0 B157" "R251 G251 B251" "Solid" 1 1 1
+188 0 "Black" "Invisible" 0 "R255 G0 B161" "R252 G252 B252" "Solid" 1 1 1
+189 0 "Black" "Invisible" 0 "R255 G0 B165" "R253 G253 B253" "Solid" 1 1 1
+190 1 "Black" "Invisible" 0 "R255 G0 B169" "White" "Solid" 1 1 1
